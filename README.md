@@ -8,3 +8,4 @@
 * [全排列-46](https://github.com/lyx-jay/LeetCode/issues/4)
 * [全排列-47](https://github.com/lyx-jay/LeetCode/issues/5)
 * [组合总和-39](https://github.com/lyx-jay/LeetCode/issues/6)
+* [组合总和-40](https://github.com/lyx-jay/LeetCode/issues/7)
