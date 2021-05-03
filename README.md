@@ -9,3 +9,4 @@
 * [全排列-47](https://github.com/lyx-jay/LeetCode/issues/5)
 * [组合总和-39](https://github.com/lyx-jay/LeetCode/issues/6)
 * [组合总和Ⅱ-40](https://github.com/lyx-jay/LeetCode/issues/7)
+* [三数之和-15](https://github.com/lyx-jay/LeetCode/issues/8)
