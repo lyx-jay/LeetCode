@@ -13,3 +13,4 @@
 * [组合-77](https://github.com/lyx-jay/LeetCode/issues/9)
 * [子集-78](https://github.com/lyx-jay/LeetCode/issues/10)
 * [子集Ⅱ-90](https://github.com/lyx-jay/LeetCode/issues/11)
+* [排列序列-60](https://github.com/lyx-jay/LeetCode/issues/12)
