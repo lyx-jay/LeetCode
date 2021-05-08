@@ -15,3 +15,4 @@
 * [子集Ⅱ-90](https://github.com/lyx-jay/LeetCode/issues/11)
 * [排列序列-60](https://github.com/lyx-jay/LeetCode/issues/12)
 * [复原IP地址-93](https://github.com/lyx-jay/LeetCode/issues/13)
+* [图像渲染-733](https://github.com/lyx-jay/LeetCode/issues/14)
