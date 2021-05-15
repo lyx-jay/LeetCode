@@ -18,3 +18,4 @@
 * [图像渲染-733](https://github.com/lyx-jay/LeetCode/issues/14)
 * [岛屿数量-200](https://github.com/lyx-jay/LeetCode/issues/15)
 * [单词搜索-79](https://github.com/lyx-jay/LeetCode/issues/16)
+* [被围绕的区域-130](https://github.com/lyx-jay/LeetCode/issues/17)
