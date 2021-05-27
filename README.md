@@ -22,3 +22,4 @@
 * [电话号码的字母组合-17](https://github.com/lyx-jay/LeetCode/issues/18)
 * [字母大小写全排列-784](https://github.com/lyx-jay/LeetCode/issues/19)
 * [括号生成-22](https://github.com/lyx-jay/LeetCode/issues/20)
+* [Pow(x, n)-50](https://github.com/lyx-jay/LeetCode/issues/21)
