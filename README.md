@@ -23,6 +23,7 @@
 * [字母大小写全排列-784](https://github.com/lyx-jay/LeetCode/issues/19)
 * [括号生成-22](https://github.com/lyx-jay/LeetCode/issues/20)
 * [Pow(x, n)-50](https://github.com/lyx-jay/LeetCode/issues/21)
+* [四数之和-18](https://github.com/lyx-jay/LeetCode/issues/24)
 
 
 ## 二分法
