@@ -30,3 +30,4 @@
 * [在排序数组中查找元素的第一个和最后一个位置-34](https://github.com/lyx-jay/LeetCode/issues/22)
 * [搜索旋转排序数组-33](https://github.com/lyx-jay/LeetCode/issues/23)
 * [二分查找-704](https://github.com/lyx-jay/LeetCode/issues/25)
+* [寻找旋转排序数组中的最小值Ⅱ-154](https://github.com/lyx-jay/LeetCode/issues/26)
