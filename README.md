@@ -35,3 +35,4 @@
 
 ## 链表
 * [移除链表元素-203](https://github.com/lyx-jay/LeetCode/issues/28)
+* [反转链表-24](https://github.com/lyx-jay/LeetCode/issues/29)
