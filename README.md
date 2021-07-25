@@ -37,3 +37,4 @@
 * [移除链表元素-203](https://github.com/lyx-jay/LeetCode/issues/28)
 * [反转链表-24](https://github.com/lyx-jay/LeetCode/issues/29)
 * [反转链表Ⅱ-92](https://github.com/lyx-jay/LeetCode/issues/30)
+* [删除链表的节点-面试题18](https://github.com/lyx-jay/LeetCode/issues/31)
