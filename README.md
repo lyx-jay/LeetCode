@@ -38,3 +38,4 @@
 * [反转链表-24](https://github.com/lyx-jay/LeetCode/issues/29)
 * [反转链表Ⅱ-92](https://github.com/lyx-jay/LeetCode/issues/30)
 * [删除链表的节点-面试题18](https://github.com/lyx-jay/LeetCode/issues/31)
+* [删除链表的倒数第N个节点-19](https://github.com/lyx-jay/LeetCode/issues/32)
