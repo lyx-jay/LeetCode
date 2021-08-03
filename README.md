@@ -47,3 +47,6 @@
 * [路径总和-112](https://github.com/lyx-jay/LeetCode/issues/36)
 * [路径总和Ⅱ-113](https://github.com/lyx-jay/LeetCode/issues/37)
 * [二叉树的所有路径-257](https://github.com/lyx-jay/LeetCode/issues/38)
+* [二叉搜索树中第K小的元素](https://github.com/lyx-jay/LeetCode/issues/43)
+* [平衡二叉树-110](https://github.com/lyx-jay/LeetCode/issues/44)
+* [左叶子之和-404](https://github.com/lyx-jay/LeetCode/issues/45)
