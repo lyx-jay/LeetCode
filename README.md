@@ -51,3 +51,6 @@
 * [平衡二叉树-110](https://github.com/lyx-jay/LeetCode/issues/44)
 * [左叶子之和-404](https://github.com/lyx-jay/LeetCode/issues/45)
 * [二叉树的最近公共祖先-236](https://github.com/lyx-jay/LeetCode/issues/46)
+
+## 动态规划
+* [最长公共子序列](https://github.com/lyx-jay/LeetCode/issues/47)
