@@ -50,3 +50,4 @@
 * [二叉搜索树中第K小的元素](https://github.com/lyx-jay/LeetCode/issues/43)
 * [平衡二叉树-110](https://github.com/lyx-jay/LeetCode/issues/44)
 * [左叶子之和-404](https://github.com/lyx-jay/LeetCode/issues/45)
+* [二叉树的最近公共祖先-236](https://github.com/lyx-jay/LeetCode/issues/46)
