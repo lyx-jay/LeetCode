@@ -54,3 +54,7 @@
 
 ## 动态规划
 * [最长公共子序列](https://github.com/lyx-jay/LeetCode/issues/47)
+
+## 字符串
+* [字符串相加](https://github.com/lyx-jay/LeetCode/issues/48)
+* [字符串相乘](https://github.com/lyx-jay/LeetCode/issues/49)
