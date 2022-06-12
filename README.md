@@ -58,3 +58,6 @@
 ## 字符串
 * [字符串相加](https://github.com/lyx-jay/LeetCode/issues/48)
 * [字符串相乘](https://github.com/lyx-jay/LeetCode/issues/49)
+
+## 贪心思想
+* [跳跃游戏](https://github.com/lyx-jay/LeetCode/issues/50)
